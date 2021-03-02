@@ -1,0 +1,3 @@
+.blog-inline-code {
+  @apply rounded-md p-1 bg-surface text-link leading-loose;
+}
