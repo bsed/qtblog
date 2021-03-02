@@ -7,7 +7,7 @@
     "url": "https://github.com/bsed/blog/issues"
   },
   "scripts": {
-    "dev": "next dev",
+    "develop": "next dev",
     "build": "next build",
     "start": "next start",
     "preview": "next build && next start"
